@@ -2,7 +2,7 @@
 
 ### Technology Leader | Agile & Cloud-Native Expert  
 📍 Sicily, Italy 
-🔗 ![LinkedIn](#https://www.linkedin.com/in/federico-cerruto/) | ✍️ ![Medium](#https://medium.com/@fede.cerruto)  
+🔗 ![LinkedIn](https://www.linkedin.com/in/federico-cerruto/) | ✍️ ![Medium](https://medium.com/@fede.cerruto)  
 
 ### 👨‍💻 About Me  
 I’m a **Technology Leader** with a career spanning from software development to designing architectures and leading engineering teams. My expertise lies in **platform engineering**, where I combine technical excellence with Agile practices to deliver scalable, innovative solutions.  
