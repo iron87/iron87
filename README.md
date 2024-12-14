@@ -13,7 +13,7 @@ I’m passionate about fostering **team autonomy**, driving business goals, and 
 ### 🔧 Core Skills  
 - **Leadership & Agile Practices**: OKRs, 1:1 meetings, Scrum, team coaching  
 - **Cloud-Native Expertise**: Kubernetes, IaC, GitOps   
-- **Programming & Architectures**: Java, Spring Boot, Microservices, Event-Driven Design  
+- **Programming & Architectures**: Java, Go, Python, Spring Boot, Microservices, Event-Driven Design  
 
 ### 🌟 Let’s Connect!  
 I’d love to collaborate on innovative projects or share insights on cloud-native technologies and team leadership. Feel free to reach out!  
