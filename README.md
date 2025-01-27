@@ -15,5 +15,9 @@ I’m passionate about fostering **team autonomy**, driving business goals, and 
 - **Cloud-Native Expertise**: Kubernetes, IaC, GitOps   
 - **Programming & Architectures**: Java, Go, Python, Spring Boot, Microservices, Event-Driven Design  
 
+### 🚀 What I’m learning
+I'm currently diving into Rust and building my own text editor: [hecto](https://github.com/iron87/hecto).
+I'm also experimenting with LLM applications, exploring how AI can enhance software development and automation.
+
 ### 🌟 Let’s Connect!  
 I’d love to collaborate on innovative projects or share insights on cloud-native technologies and team leadership. Feel free to reach out!  
